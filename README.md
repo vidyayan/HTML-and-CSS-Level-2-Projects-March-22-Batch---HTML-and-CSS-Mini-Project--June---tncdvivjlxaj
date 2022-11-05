@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+HTML and CSS Level 2 Projects (M'22)
